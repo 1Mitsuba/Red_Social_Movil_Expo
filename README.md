@@ -141,4 +141,3 @@ Te doy opciones y pasos mínimos para que sepas qué seguir cuando quieras añad
 - Antes de regenerar `android/` o ejecutar `prebuild` haz commit de tus cambios JS para poder revertir si algo sale mal.
 - No incluyas `android/local.properties` ni archivos de configuración sensibles en el repo.
 
-Si quieres, puedo añadir o adaptar esta sección con pasos concretos para Firebase o para configurar EAS cuando decidas integrarlos. ¿Quieres que lo deje ya en el README? 
